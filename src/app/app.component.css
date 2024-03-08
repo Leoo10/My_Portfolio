@@ -1,0 +1,23 @@
+* {
+  font-family: sans-serif;
+}
+.Welcome_title {
+   width: 900px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 100px;
+}
+.img_box {
+    height: 400px;
+    background: #aaa;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+.img_box_img {
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
